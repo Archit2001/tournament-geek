@@ -1,0 +1,10 @@
+.sports-container {
+	text-align: center;
+}
+.sports-container h2 {
+	transform: translate(-30px);
+}
+
+.container .row .card {
+	margin-right: 20px;
+}
